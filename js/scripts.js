@@ -30,9 +30,9 @@ var womanShirtOne = new NewProduct("Womens Shirt One", "Womens", "Gastropub pork
 ["Blended fabric construction gives a heathered look", "Polyester retains shape and elasticity, Cotton lends both comfort and durability", "Durable rib neckband", "Loose, flowy fit"], "wo");
 
 var womanShirtTwo = new NewProduct("Womens Shirt Two", "Womens", "Gastropub pork belly mustache vaporware kogi artisan. Bicycle rights flexitarian butcher 3 wolf moon meh selvage, neutra narwhal tbh humblebrag. Fingerstache kitsch keffiyeh, crucifix migas gochujang you probably haven't heard of them waistcoat pitchfork vape distillery fixie.</p><p>Single-origin coffee roof party vape pickled forage chillwave. XOXO gluten-free brunch literally iceland cold-pressed single-origin coffee iPhone.", 25,
-["img/W2_Black.png","img/W2_Gray.png", "img/W2_Navy.png", "img/W2_Turqouise.png"],
-["img/Thumbs/W2_Black_thumb.jpg", "img/Thumbs/W2_Gray_thumb.jpg", "img/Thumbs/W2_Navy_thumb.jpg", "img/Thumbs/W2_Turqouise_thumb.jpg"],
-["img/swatch/M4_Black_Swatch.jpg", "img/swatch/W2_Gray_Swatch.jpg", "img/swatch/W2_Navy_Swatch.jpg", "img/swatch/W2_Turqouise_Swatch.jpg"],
+["img/W2_black.png","img/W2_Gray.png", "img/W2_Navy.png", "img/W2_Turqouise.png"],
+["img/Thumbs/W2_black_thumb.jpg", "img/Thumbs/W2_Gray_thumb.jpg", "img/Thumbs/W2_Navy_thumb.jpg", "img/Thumbs/W2_Turqouise_thumb.jpg"],
+["img/swatch/M4_black_Swatch.jpg", "img/swatch/W2_Gray_Swatch.jpg", "img/swatch/W2_Navy_Swatch.jpg", "img/swatch/W2_Turqouise_Swatch.jpg"],
 ["Heather Black", "Heather Gray", "Navy", "Turqouise"], ["Small", "Medium", "Large", "Extra Large"],
 ["Blended fabric construction gives a heathered look", "Polyester retains shape and elasticity, Cotton lends both comfort and durability", "Durable rib neckband", "Loose, flowy fit"], "wt");
 
