@@ -6,7 +6,7 @@
 
 ## Description
 
-_This project lists pets available for adoption on a web page. Users can upload new pets for adoption. Users will be able to display pets available for adoption and those that have already been adopted Project is available for review here: https://github.com/mckenro/ecommerce and here: https://mckenro.github.io/ecommerce/_
+_This project uses html, css, bootstrap, Javascript, and JQuery to create a starting point for an ecommerce website. The ultimate project will require connection to a database and additional work on the cart portion of the site. Project is available for review here: https://github.com/mckenro/ecommerce and here: https://mckenro.github.io/ecommerce/_
 
 ## Specs
 
